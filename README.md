@@ -1,14 +1,17 @@
 ## Aodi Cheng
 
-PhD student, Department of Political Science, University of Minnesota.
+PhD Student, Department of Political Science, University of Minnesota
 
-I study political behavior and the political economy of development, with a regional focus on China. My work combines survey data, administrative records, and quasi-experimental designs to ask how citizens form political attitudes and how governments allocate public goods under accountability pressure.
+My research interests lie in comparative and international political economy, formal theory, and political methodology. I study how political institutions and incentives shape government behavior and policy outcomes, and how domestic politics interacts with international relations.
+
+My empirical work draws on survey and administrative data and quasi-experimental designs. My research on China examines how accountability pressures and information asymmetries influence the allocation of public goods. More broadly, I am interested in connecting formal models of political behavior with empirical analysis.
 
 **Research interests**
 
-- Formation of political attitudes and beliefs; immigration and identity politics
-- Political economy of development and local governance in China
-- Causal inference with panel and survey data; difference-in-differences and event-study designs; latent-variable and mixture models
+- Comparative and international political economy
+- Political institutions, accountability, and public policy
+- Domestic politics and public opinion in international relations
+- Formal theory and political methodology, particularly causal inference
 
 **Education**
 
@@ -17,7 +20,7 @@ I study political behavior and the political economy of development, with a regi
 
 **Tools**
 
-R (tidyverse, fixest, ggplot2), LaTeX, Stata
+R, Stata, LaTeX
 
 **Contact**
 
