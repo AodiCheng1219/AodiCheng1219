@@ -18,6 +18,12 @@ My empirical work draws on survey and administrative data and quasi-experimental
 - MA in Political Science, University of British Columbia
 - MA (SocSci) in Politics with Quantitative Methods, First Class Honours, University of Glasgow
 
+**Publications**
+
+- Fang, Songying, Xiaojun Li, and Aodi Cheng. 2026. "Beyond Rivalry: How Americans and Chinese View Global Justice." *Global Studies Quarterly* 6(3): ksag096. [Article](https://doi.org/10.1093/isagsq/ksag096)
+
+Working papers and conference presentations are listed on my [website](https://aodicheng1219.github.io).
+
 **Tools**
 
 R, Stata, LaTeX
